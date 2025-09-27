@@ -1,1 +1,2 @@
 printf("Hi");
+S=A+B;
